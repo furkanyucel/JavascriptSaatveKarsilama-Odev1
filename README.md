@@ -3,7 +3,7 @@ Bu repo [Patika](http://www.patika.dev) sitesi javascript eğitimi Javascript Sa
 
 
 ```javascript
-let user = prompt("Adınız nedir?");
+let user = prompt("İsminiz");
 let myName = document.querySelector('#myName');
 myName.innerHTML = ` ${user} `;
 
