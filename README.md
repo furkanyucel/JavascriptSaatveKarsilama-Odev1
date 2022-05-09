@@ -18,3 +18,7 @@ setTimeout(showTime, 1000); }
 showTime();
 
 ```
+
+#### Ekran Görüntüsü
+
+![screenshot 1](screenshot.png)
