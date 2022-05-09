@@ -1,4 +1,4 @@
-let user = prompt("Adınız nedir?");
+let user = prompt("İsminiz");
 let myName = document.querySelector('#myName');
 myName.innerHTML = ` ${user} `;
 
