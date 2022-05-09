@@ -21,4 +21,6 @@ showTime();
 
 #### Ekran Görüntüsü
 
-![screenshot 1](screenshot.png)
+![screenshot 1](Screenshot/screenshot.png)
+
+![screenshot 2](Screenshot/screenshot2.png)
